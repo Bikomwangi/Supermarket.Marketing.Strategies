@@ -8,3 +8,8 @@ This project uses concepts of association rules, anomalies detection, dimesional
 This section entails reducing the dataset provided to a low dimensional dataset using PCA
 
 And, performing feature selection through the use of the unsupervised learning methods
+
+
+# Part.3.Association.Rules
+
+This section, creating association rules that will allow us to identify relationships between variables in the dataset. This section uses a separate dataset that comprises of groups of items that will be associated with other
