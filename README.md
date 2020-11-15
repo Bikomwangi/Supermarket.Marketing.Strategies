@@ -13,3 +13,8 @@ And, performing feature selection through the use of the unsupervised learning m
 # Part.3.Association.Rules
 
 This section, creating association rules that will allow us to identify relationships between variables in the dataset. This section uses a separate dataset that comprises of groups of items that will be associated with other
+
+
+# Part.4.Anomaly.Detection
+
+Here, we check whether there are any anomalies in the provided sales dataset. The main objective of this task being fraud detection.
